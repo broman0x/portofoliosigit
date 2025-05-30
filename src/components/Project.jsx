@@ -10,7 +10,7 @@ const Project = () => {
       period: '2020 - Desember 2021',
       description:
         'Merancang dan menguji aktivitas antibakteri sediaan deo lotion berbasis ekstrak etanol rimpang lempuyang wangi (Zingiber zerumbet) terhadap bakteri Staphylococcus hominis.',
-      link: 'https://example.com/journal', // Ganti dengan URL jurnal asli
+      link: 'https://journal.uta45jakarta.ac.id/index.php/INRPJ/article/view/6492', // Ganti dengan URL jurnal asli
     },
   ];
 
