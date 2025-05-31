@@ -12,7 +12,7 @@ const Experience = () => {
         'Melakukan pengemasan produk dengan standar tinggi, memastikan kualitas, keamanan, dan efektivitas obat sesuai prosedur ketat untuk distribusi yang andal.',
     },
     {
-      title: 'Apoteker',
+      title: 'Asisten Apoteker',
       company: 'Apotek Jalupang Farma',
       period: '2021 - 2025',
       description:
